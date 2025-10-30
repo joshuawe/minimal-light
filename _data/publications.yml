@@ -1,11 +1,11 @@
 main:
 
-  - title: External validation of AI-based scoring systems in the ICU: a systematic review and meta-analysis
-    authors: Patrick Rockenschaub, Ela Marie Akay, Benjamin Gregory Carlisle, Adam Hilbert, <strong>Joshua Wendland,</strong>, Falk Meyer-Eschenbach, Anatol-Fiete Näher, Dietmar Frey, Vince Istvan Madai
-    conference_short: 	BMC MIDM
-    conference: BMC Medical Informatics and Decision Making, 2024.
-    pdf: https://link.springer.com/article/10.1186/s12911-024-02830-7
-    code: https://doi.org/10.17605/OSF.IO/F7J46
-    bibtex: .assets/files/2024_External_Validation_ICU.bib
-    image: ./assets/img/2024_External_Validation_ICU.png
-    notes: 
+  - title: "External validation of AI-based scoring systems in the ICU: a systematic review and meta-analysis"
+    authors: "Patrick Rockenschaub, Ela Marie Akay, Benjamin Gregory Carlisle, Adam Hilbert, <strong>Joshua Wendland,</strong>, Falk Meyer-Eschenbach, Anatol-Fiete Näher, Dietmar Frey, Vince Istvan Madai"
+    conference_short: "BMC MIDM"
+    conference: "BMC Medical Informatics and Decision Making, 2024."
+    pdf: "https://link.springer.com/article/10.1186/s12911-024-02830-7"
+    code: "https://doi.org/10.17605/OSF.IO/F7J46"
+    bibtex: ".assets/files/2024_External_Validation_ICU.bib"
+    image: "./assets/img/2024_External_Validation_ICU.png"
+    notes: ""
